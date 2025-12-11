@@ -1,0 +1,2 @@
+"create_hypertable"
+"('16', 'public', 'ticks', 't')"
